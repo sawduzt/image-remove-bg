@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.reg
+removebg.log
+RemoveBG-Setup.bat
