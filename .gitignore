@@ -2,4 +2,11 @@ venv/
 __pycache__/
 *.reg
 removebg.log
-RemoveBG-Setup.bat
+dist/
+build/
+RemoveBG.zip
+install.txt
+verify.txt
+warm.txt
+uninstall.txt
+running.lock
